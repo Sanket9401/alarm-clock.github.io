@@ -11,7 +11,7 @@ body{
 	display: flex;
 	flex-direction: column;
 	margin: auto;
-	margin-top:15%;
+	margin-top:10%;
 	border-radius: 5px;
 }
 .wrapper img{
